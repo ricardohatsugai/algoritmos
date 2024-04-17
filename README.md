@@ -1,7 +1,7 @@
 # algoritmos
 ## Estudo de algoritmos em varias linguagens e Portugol e VisualG.
 <h1 align="left">
-    <img src="./imagens/logo.jpg">
+    <img src="./imagens/logo.jpg" height="300" width="500">
 </h1>
 <h2><p>Neste repositório, abordaremos estudos e resoluções de exercícios do livro "Algoritmos e Programação de computadores", da Editora Campus.</p> Autores:
 - Dilermando Piva Junior;
